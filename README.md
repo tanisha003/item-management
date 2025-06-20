@@ -38,5 +38,6 @@ npm start
 ```
 
 Then open your browser at `http://localhost:3000`.
-
 ---
+
+deployed site link: https://item-management-catalog.netlify.app/
